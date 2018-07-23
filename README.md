@@ -1,2 +1,8 @@
 # pr0ph3t-logger
-Ccontrolled Key Logger Script
+Controlled Key Logger Script
+
+Create Log file by : C:/prophet-logger.txt
+
+# GreetZ
+
+iComsium - BORU70 - Sixx0r - Prolayt
