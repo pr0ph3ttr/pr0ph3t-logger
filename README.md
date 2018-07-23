@@ -3,6 +3,6 @@ Controlled Key Logger Script
 
 Create Log file by : C:/prophet-logger.txt
 
-# GreetZ
+# Greetz
 
 iComsium - BORU70 - Sixx0r - Prolayt
